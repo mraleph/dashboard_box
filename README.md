@@ -11,7 +11,7 @@ dashboard.
 - Clone this repository _exactly_ into `~/flutter_dashboard/dashboard_box`, so
   that the `run.sh` script could be found _exactly_ at
   `~/flutter_dashboard/dashboard_box/run.sh`.
-- For better results, make sure there's nothing else in `~/flutter_dashboard`.
+- For better results, make sure there's nothing else in `~/flutter_dashboard`. **Note: `~/flutter_dashboard/flutter` contents will be erased without a warning!**
 - Complete the [Flutter Setup](https://flutter.io/setup/), if you haven't
   already. Note, however, that this job will install its own copy of Flutter.
 - Connect an Android device.
